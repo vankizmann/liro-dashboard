@@ -1,0 +1,21 @@
+.el-tabs__nav-wrap::after {
+    height: 1px;
+}
+
+.el-popover {
+    text-align: inherit;
+    padding: 0;
+}
+
+.el-popover__header {
+    padding: 12px 20px;
+    border-bottom: $--tab-border-line;
+}
+
+.el-popover__content {
+    padding: 12px 20px;
+}
+
+.el-popover .el-tabs__header {
+    margin: 0;
+}
